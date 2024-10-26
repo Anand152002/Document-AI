@@ -12,8 +12,8 @@ Vector Store: Utilizes Pinecone for efficient similarity-based text retrieval.
 1) Clone the repository:
 
  ```bash
-Copy code
-git clone https://github.com/your-username/pdf-question-answering-app.git
+
+[git clone https://github.com/your-username/pdf-question-answering-app.git](https://github.com/Anand152002/Document-AI.git)
  ```
 
 2)Install dependencies:
