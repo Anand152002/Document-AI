@@ -2,13 +2,13 @@
 
 This Streamlit application allows users to upload a PDF document and ask questions about its content. The app uses OpenAI's GPT-3.5 model and Pinecone's vector store for efficient document processing and retrieval, leveraging LangChain for prompt management and parsing.
 
-###Features
+## Features
 PDF Upload: Users can upload any PDF file.
 Text Splitting: Splits PDF content into manageable chunks for easier processing.
 Question Answering: Queries the PDF's content to answer specific user questions.
 Vector Store: Utilizes Pinecone for efficient similarity-based text retrieval.
 
-###Getting Started
+## Getting Started
 1) Clone the repository:
 
  ```bash
