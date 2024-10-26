@@ -33,8 +33,3 @@ pine_api_key = "YOUR_PINECONE_API_KEY"
 
 streamlit run app.py
  ```
-The app will display an answer based on the PDF content.
-File Structure
-app.py: Main application file.
-key_api.py: File to store API keys securely.
-requirements.txt: Dependencies required to run the application.
